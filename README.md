@@ -1,2 +1,2 @@
-# Haruster-Pwnable-FTZ-
+# Haruster-Pwnable-FTZ
 HackerSchool FTZ Writeup
